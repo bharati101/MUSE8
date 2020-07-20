@@ -1,0 +1,133 @@
+.topbar{
+  margin-top: 0;
+width:1519px;
+height:40px;
+margin-bottom:0;
+background-color: #cf7500;
+
+}
+
+
+
+.muse1{
+width:1519px;
+background-color: #f0a500;
+height:670px;
+margin: 0;
+position:relative;
+margin-bottom: 30px;
+
+
+}
+
+
+.get {
+	box-shadow:inset 0px -50px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:3px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Trebuchet MS;
+	font-size:18px;
+	font-weight:bold;
+	padding:22px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.get:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.get:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+h1{
+  color: white;
+  margin-top: 200px;
+  margin-left: 850px;
+  position: absolute;
+  font-size: 150px;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  margin: 0;;
+}
+.headp{
+  position:absolute;
+  margin-left: 150px;
+  margin-top: 75px;
+}
+.get{
+  margin-top: 550px;
+  margin-left: 850px;
+  position: absolute;
+  filter: brightness(0) invert(1);
+
+}
+.subhead{
+  color: black;
+  margin-top: 370px;
+  margin-left: 855px;
+  position: absolute;
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 200%;
+}
+.btn-outline-dark{
+  color: black;
+  margin-top: 570px;
+  margin-left: 858px;
+  position: absolute;
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  position: absolute;
+
+}
+.muse2{
+  width:1519px;
+  background-color: #9BD3CF;
+  height:1200px;
+  margin: 0;
+  position:relative;
+
+}
+.platform{
+  position: absolute;
+    margin-left: 300px;
+    margin-bottom: 20px;
+
+
+}
+.abouttus{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  width: 1519px;
+  height: 100px;
+  color:#dbdbdb;
+
+}
+.contact{
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+}
+.mail{
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+}
+.number{
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+}
+.yes{
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+}
